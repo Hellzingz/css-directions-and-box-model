@@ -1,1 +1,19 @@
-/* Start coding here */
+.header {
+    width: 100vw;
+    height: 100vh;
+    border: 16px solid crimson;
+    background-color: khaki;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.header-title {
+    font-size: 72px;
+    padding: 30px;
+    
+}
+
+body {
+    background-color: lightgray;
+}
